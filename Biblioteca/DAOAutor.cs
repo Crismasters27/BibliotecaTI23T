@@ -103,8 +103,8 @@ namespace Biblioteca
             for(i = 0; i < this.contar; i++)
             {
                 this.msg += $"\nCódigo: {this.codigo[i]} " +
-                            $"\nNome: {this.nome[i]}" +
-                            $"\nGênero: {this.genero[i]}" +
+                            $"\nNome: {this.nome[i]}"      +
+                            $"\nGênero: {this.genero[i]}"  +
                             $"\nEndereço: {this.endereco[i]}\n\n";
             }
             return this.msg;
@@ -133,7 +133,7 @@ namespace Biblioteca
         {
             try
             {
-                string query = $"update autor set (campo) = '(novoDado)' where codigo = '(codigo)'";
+                string query = $"update autor set {campo} = '{novoDado}' where codigo = '{codigo}'";
                 //Executar o comando
                 MySqlCommand sql = new MySqlCommand(query, this.conexao);
                 string resultado = "" + sql.ExecuteNonQuery();//Comando de inserção no banco
@@ -149,7 +149,7 @@ namespace Biblioteca
         {
             try
             {
-                string query = $"delete from where codigo = '(codigo)'";
+                string query = $"delete from autor where codigo = '{codigo}'";
                 //Executar o comando
                 MySqlCommand sql = new MySqlCommand(query, this.conexao);
                 string resultado = "" + sql.ExecuteNonQuery();//Comando de inserção no banco

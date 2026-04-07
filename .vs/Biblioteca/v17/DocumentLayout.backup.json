@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cristiano.sraimundo\\source\\repos\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{279BFF42-175B-425C-9C17-8E7BC46F80D8}|Biblioteca\\Biblioteca.csproj|c:\\users\\cristiano.sraimundo\\source\\repos\\biblioteca\\biblioteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279BFF42-175B-425C-9C17-8E7BC46F80D8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279BFF42-175B-425C-9C17-8E7BC46F80D8}|Biblioteca\\Biblioteca.csproj|c:\\users\\cristiano.sraimundo\\source\\repos\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279BFF42-175B-425C-9C17-8E7BC46F80D8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279BFF42-175B-425C-9C17-8E7BC46F80D8}|Biblioteca\\Biblioteca.csproj|c:\\users\\cristiano.sraimundo\\source\\repos\\biblioteca\\biblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279BFF42-175B-425C-9C17-8E7BC46F80D8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cristiano.sraimundo\\source\\repos\\Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\cristiano.sraimundo\\source\\repos\\Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Biblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:46:34.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAOAutor.cs",
+              "DocumentMoniker": "C:\\Users\\cristiano.sraimundo\\source\\repos\\Biblioteca\\Biblioteca\\DAOAutor.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\DAOAutor.cs",
+              "ToolTip": "C:\\Users\\cristiano.sraimundo\\source\\repos\\Biblioteca\\Biblioteca\\DAOAutor.cs",
+              "RelativeToolTip": "Biblioteca\\DAOAutor.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAmwJcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:46:28.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlAutor.cs",
+              "DocumentMoniker": "C:\\Users\\cristiano.sraimundo\\source\\repos\\Biblioteca\\Biblioteca\\ControlAutor.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\ControlAutor.cs",
+              "ToolTip": "C:\\Users\\cristiano.sraimundo\\source\\repos\\Biblioteca\\Biblioteca\\ControlAutor.cs",
+              "RelativeToolTip": "Biblioteca\\ControlAutor.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAHcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:46:31.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
